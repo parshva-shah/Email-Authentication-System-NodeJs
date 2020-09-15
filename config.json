@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://dbUser:opopopop@api.0ecup.mongodb.net/api?retryWrites=true&w=majority",
+    "secret": "8b78a6e1684347c3a8db8a6c6d344e6b",
+    "emailFrom": "info@nodejs.com",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "onlysomeuser@gmail.com",
+            "pass": "eylxjifowgujoixy"
+        }
+    }
+}
